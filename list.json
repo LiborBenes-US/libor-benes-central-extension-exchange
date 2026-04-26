@@ -1,0 +1,432 @@
+[
+ {
+  "id": "{d408ef11-8225-4bb1-8707-e6101600c058}",
+  "name": "Hex/Bin/Oct/Dec Converter",
+  "slug": "converter"
+ },
+ {
+  "id": "{3cbd3e6a-46e7-4a1b-aa04-e5bfb964ec96}",
+  "name": "Email Extractor",
+  "slug": "emailextractor"
+ },
+ {
+  "id": "{66fb6abf-8a05-42db-b7c2-ad7738edafd8}",
+  "name": "English Dictionary",
+  "slug": "english_dictionary"
+ },
+ {
+  "id": "{d6b8a3ce-d298-41a0-8c5a-c43f405f7dc7}",
+  "name": "Day Counter",
+  "slug": "day-counter"
+ },
+ {
+  "id": "{1b43aa64-4cba-4576-b6de-2df15eac060d}",
+  "name": "U.S. Presidents",
+  "slug": "u-s-presidents"
+ },
+ {
+  "id": "{c685d644-c096-42d4-bc4f-23114dd09edf}",
+  "name": "SI - Bin Prefix Converter",
+  "slug": "si-bin-prefix-converter"
+ },
+ {
+  "id": "{1d84d6e6-5296-4cf3-aad5-d85c2962c62c}",
+  "name": "Image Inspector",
+  "slug": "image_inspector"
+ },
+ {
+  "id": "{18be4320-a932-4ba4-aec8-c390067f2e17}",
+  "name": "TabLister",
+  "slug": "tablister"
+ },
+ {
+  "id": "Benes@iwp.edu",
+  "name": "ASCII Table",
+  "slug": "ascii-table"
+ },
+ {
+  "id": "{f47bd10b-58bb-4398-b567-0e02b2c3d479}",
+  "name": "HTTP Response Codes",
+  "slug": "http-response-codes"
+ },
+ {
+  "id": "{9d75cdc5-5077-4676-ac98-0f16ae7185ad}",
+  "name": "Ports 1-1023",
+  "slug": "ports-1-1023"
+ },
+ {
+  "id": "{43b2240e-2f61-49dc-8693-a890a5daaefa}",
+  "name": "Network Protocols",
+  "slug": "network-protocols"
+ },
+ {
+  "id": "{348b328c-d9ce-4173-8a22-5e055c2e2a78}",
+  "name": "Passworder",
+  "slug": "passworder_safe"
+ },
+ {
+  "id": "{def40b81-331f-43c2-9455-94815af581b6}",
+  "name": "SQL Reference",
+  "slug": "sql_reference"
+ },
+ {
+  "id": "{fd23d609-462e-4fab-b82a-6626ca87e3da}",
+  "name": "RegEx Patterns",
+  "slug": "regex-patterns"
+ },
+ {
+  "id": "temperature-converter@example.com",
+  "name": "Temperature Converter",
+  "slug": "temperature_converter"
+ },
+ {
+  "id": "{099489cb-e0ab-42f8-b54a-836c2121c510}",
+  "name": "U.S. - Metric Lengths",
+  "slug": "us-metric-lengths"
+ },
+ {
+  "id": "{62b2e858-4841-4d52-bf77-0bfe620bee8b}",
+  "name": "U.S. - Metric Weights",
+  "slug": "us-metric-weights"
+ },
+ {
+  "id": "{dd512e3e-0b09-46ff-b875-84409ae45046}",
+  "name": "U.S. - Metric Liquid Volumes",
+  "slug": "us-metric-liquid-volumes"
+ },
+ {
+  "id": "{bb9bf305-1b89-471c-ad64-e831d541ebf9}",
+  "name": "Reserved Words",
+  "slug": "reserved_words"
+ },
+ {
+  "id": "{1ce9abd5-839b-470c-9b4f-47f3be6cd78b}",
+  "name": "URL Extractor",
+  "slug": "url_extractor"
+ },
+ {
+  "id": "{2265cc70-0c56-4afc-9262-d5ce93f3c423}",
+  "name": "HTTP Headers",
+  "slug": "http_headers"
+ },
+ {
+  "id": "{6b116062-c451-4bd6-aeb9-49cb1d92a205}",
+  "name": "Google Operators",
+  "slug": "google_operators"
+ },
+ {
+  "id": "fabric_launderer@example.com",
+  "name": "Fabric Launderer",
+  "slug": "fabric_launderer"
+ },
+ {
+  "id": "shirt_sizer@benes.iwp.edu",
+  "name": "Shirt Sizer",
+  "slug": "shirt_sizer"
+ },
+ {
+  "id": "shoe_sizer@benes.iwp.edu",
+  "name": "Shoe Sizer",
+  "slug": "shoe_sizer"
+ },
+ {
+  "id": "excel_shortcuts@benes.iwp.edu",
+  "name": "Excel Shortcuts",
+  "slug": "excel_shortcuts"
+ },
+ {
+  "id": "{cc007b0d-b71f-4fd7-a0f1-ce6817a99687}",
+  "name": "Nmap Args",
+  "slug": "nmap_args"
+ },
+ {
+  "id": "{17262e2a-3379-48e0-921c-d225a93ae7ab}",
+  "name": "U.S. State Capitals",
+  "slug": "us_state_capitals"
+ },
+ {
+  "id": "linux-permissions@xai-addon",
+  "name": "Linux Permissions",
+  "slug": "linux_permissions"
+ },
+ {
+  "id": "{a74f420b-6aa5-4e47-aed5-4ab36c809c88}",
+  "name": "Refererer",
+  "slug": "refererer"
+ },
+ {
+  "id": "{b7a96db2-f3d0-43b7-ad89-0ad5fc2f0cfa}",
+  "name": "HTTP Pinger",
+  "slug": "http_pinger"
+ },
+ {
+  "id": "icmp_types_codes@xai.example",
+  "name": "ICMP Types & Codes",
+  "slug": "icmp_types_codes"
+ },
+ {
+  "id": "{e22232a0-417a-4092-b4c7-4b9bc36259da}",
+  "name": "SubNet Calc",
+  "slug": "subnet_calc"
+ },
+ {
+  "id": "{24bfe9b5-99c8-4304-b410-bd0c1d39cd1f}",
+  "name": "SubNet Classer",
+  "slug": "subnet_classer"
+ },
+ {
+  "id": "{a6c834d7-e123-4088-be50-aa313005f48f}",
+  "name": "TCP States DevTools Panel",
+  "slug": "tcp_states_devtools_panel"
+ },
+ {
+  "id": "{f9de0217-9367-435f-9acc-b0d04578c359}",
+  "name": "CookieScope",
+  "slug": "cookiescope"
+ },
+ {
+  "id": "html_ref@example.com",
+  "name": "HTML Ref",
+  "slug": "html_ref"
+ },
+ {
+  "id": "html_css_js_scriptor@example.com",
+  "name": "HTML & CSS Scriptor",
+  "slug": "html_css_scriptor"
+ },
+ {
+  "id": "linux_commands@yourdomain.com",
+  "name": "Linux Commands",
+  "slug": "linux_commands"
+ },
+ {
+  "id": "ip_now@example.com",
+  "name": "IP Now",
+  "slug": "ip_now"
+ },
+ {
+  "id": "fileext@example.com",
+  "name": "FileExt",
+  "slug": "fileext"
+ },
+ {
+  "id": "hashgen@example.com",
+  "name": "HashGen",
+  "slug": "hashgen"
+ },
+ {
+  "id": "vi_ref@example.com",
+  "name": "vi Ref",
+  "slug": "vi_ref"
+ },
+ {
+  "id": "server_types@example.com",
+  "name": "Server Types",
+  "slug": "server_types"
+ },
+ {
+  "id": "css_ref@example.com",
+  "name": "CSS Ref",
+  "slug": "css_ref"
+ },
+ {
+  "id": "programming_operators@yourdomain.com",
+  "name": "Programming Operators",
+  "slug": "programming_operators"
+ },
+ {
+  "id": "tcp_flags@example.com",
+  "name": "TCP Flags",
+  "slug": "tcp_flags"
+ },
+ {
+  "id": "pointers@yourdomain.com",
+  "name": "Pointers",
+  "slug": "pointers"
+ },
+ {
+  "id": "email_header_analyzer@example.com",
+  "name": "Email Header Analyzer",
+  "slug": "email_header_analyzer"
+ },
+ {
+  "id": "unix_epoch@libor_benes.dev",
+  "name": "UNIX Epoch",
+  "slug": "unix_epoch"
+ },
+ {
+  "id": "metadata_forensics@libor_benes.dev",
+  "name": "Metadata Forensics",
+  "slug": "metadata_forensics"
+ },
+ {
+  "id": "ai_prompt_linter@libor_benes.dev",
+  "name": "AI Prompt Linter",
+  "slug": "ai_prompt_linter"
+ },
+ {
+  "id": "ai_intent_indicator@libor_benes.dev",
+  "name": "AI Intent Indicator",
+  "slug": "ai_intent_indicator"
+ },
+ {
+  "id": "ai_output_indicator@libor_benes.dev",
+  "name": "AI Output Indicator",
+  "slug": "ai_output_indicator"
+ },
+ {
+  "id": "ai_analysis_toolkit@libor_benes.dev",
+  "name": "AI Analysis Toolkit Launcher",
+  "slug": "ai_analysis_toolkit_launcher"
+ },
+ {
+  "id": "ip_geolocator@libor_benes.dev",
+  "name": "IP Geolocator",
+  "slug": "ip_geolocator"
+ },
+ {
+  "id": "awk_ref@libor_benes.dev",
+  "name": "awk Ref",
+  "slug": "awk_ref"
+ },
+ {
+  "id": "find_ref@libor_benes.dev",
+  "name": "find Ref",
+  "slug": "find_ref"
+ },
+ {
+  "id": "sed_ref@libor_benes.dev",
+  "name": "sed Ref",
+  "slug": "sed_ref"
+ },
+ {
+  "id": "ai_pii_scanner@libor_benes.dev",
+  "name": "AI PII Scanner",
+  "slug": "ai_pii_scanner"
+ },
+ {
+  "id": "ai_token_calc@libor_benes.dev",
+  "name": "AI Token Calc",
+  "slug": "ai_token_calc"
+ },
+ {
+  "id": "ipmon@libor_benes.dev",
+  "name": "IPmon",
+  "slug": "ipmon"
+ },
+ {
+  "id": "scapy_ref@libor_benes.dev",
+  "name": "Scapy Ref",
+  "slug": "scapy_ref"
+ },
+ {
+  "id": "grep_ref@libor_benes.dev",
+  "name": "grep Ref",
+  "slug": "grep_ref"
+ },
+ {
+  "id": "sort_ref@libor_benes.dev",
+  "name": "sort Ref",
+  "slug": "sort_ref"
+ },
+ {
+  "id": "cut_ref@libor_benes.dev",
+  "name": "cut Ref",
+  "slug": "cut_ref"
+ },
+ {
+  "id": "tr_ref@libor_benes.dev",
+  "name": "tr Ref",
+  "slug": "tr_ref"
+ },
+ {
+  "id": "context_interaction_analyzer@libor_benes.dev",
+  "name": "Context Interaction Analyzer (CIA)",
+  "slug": "cia"
+ },
+ {
+  "id": "webpage_source_recon@libor_benes.dev",
+  "name": "WebPage Source Recon",
+  "slug": "webpage_source_recon"
+ },
+ {
+  "id": "wireshark_network_threat_forensics@libor_benes.dev",
+  "name": "Wireshark Network Threat Forensics",
+  "slug": "wireshark_net_threat_forensics"
+ },
+ {
+  "id": "uniq_ref@libor_benes.dev",
+  "name": "uniq Ref",
+  "slug": "uniq_ref"
+ },
+ {
+  "id": "file_diff_tools@libor_benes.dev",
+  "name": "File Diff Tools",
+  "slug": "file_diff_tools"
+ },
+ {
+  "id": "grub_ref@libor_benes.dev",
+  "name": "GRUB Ref",
+  "slug": "grub_ref"
+ },
+ {
+  "id": "wc_ref@libor_benes.dev",
+  "name": "wc Ref",
+  "slug": "wc_ref"
+ },
+ {
+  "id": "passshield@libor_benes.dev",
+  "name": "PassShield",
+  "slug": "passshield"
+ },
+ {
+  "id": "msfconsole_commands@libor_benes.dev",
+  "name": "msfconsole Commands",
+  "slug": "msfconsole_commands"
+ },
+ {
+  "id": "tcpdump_ref@example.dev",
+  "name": "tcpdump Ref",
+  "slug": "tcpdump_ref"
+ },
+ {
+  "id": "htop@libor_benes.dev",
+  "name": "htop Process Monitoring and Troubleshooting",
+  "slug": "htop"
+ },
+ {
+  "id": "webpage_same_origin_apis@libor_benes.dev",
+  "name": "WebPage Same Origin APIs",
+  "slug": "webpage_apis"
+ },
+ {
+  "id": "job_scraper@libor_benes.dev",
+  "name": "Job Scraper",
+  "slug": "job_scraper"
+ },
+ {
+  "id": "speedtest_pro@user.dev",
+  "name": "Speed Test Pro",
+  "slug": "speed_test_pro"
+ },
+ {
+  "id": "adscout@libor_benes.dev",
+  "name": "AdScout",
+  "slug": "adscout"
+ },
+ {
+  "id": "note_safe@libor_benes.dev",
+  "name": "Note Safe",
+  "slug": "note_safe"
+ },
+ {
+  "id": "owasp_top_10_ref@libor_benes.dev",
+  "name": "OWASP Top 10 Ref",
+  "slug": "owasp_top_10_ref"
+ },
+ {
+  "id": "owasp_zap_ref@libor_benes.dev",
+  "name": "OWASP ZAP Ref",
+  "slug": "owasp_zap_ref"
+ }
+]
